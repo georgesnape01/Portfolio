@@ -4,7 +4,7 @@ Welcome to my portfolio!
 
 ## 📚 Table of Contents
 - [Projects](#data-engineering)
-- [Other](#Other)
+- [Social Media Links](#Other)
 
 # Projects
 
@@ -16,8 +16,7 @@ Welcome to my portfolio!
 
 ***
 
-# Other
+# Social Media Links
 
-Social Media Links
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/george-a-snape/)
 - [Personal Website](https://georgesnape01.github.io./index.html)
