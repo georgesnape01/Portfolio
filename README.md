@@ -3,9 +3,9 @@
 Welcome to my portfolio! Below is a summary of all my data science projects.
 
 # 📚 Contents 📚
-- [Post-MSc Projects](#post-msc-projects) - these projects focus on problems after September 2024, when I completed my MSc.
-- [MSc Projects](#msc-projects) - these projects focus on problems before September 2024, during my MSc.
-- [Links](#social-media-links)
+- [Post-MSc Projects](#post-msc-projects) - Projects focusing on problems after my MSc, Septmeber 2024.
+- [MSc Projects](#msc-projects) - Projects compelted during my MSc course, spanning September 2023 to September 2024.
+- [Other Links](#other-links) - Further useful links.
 
 # Post-MSc Projects
 
@@ -26,7 +26,7 @@ Welcome to my portfolio! Below is a summary of all my data science projects.
 
 ***
 
-# Social Media Links
+# Other Links
 
 - [LinkedIn](https://www.linkedin.com/in/george-a-snape/)
 - [Personal Website](https://georgesnape01.github.io./index.html)
