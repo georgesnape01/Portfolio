@@ -3,8 +3,8 @@
 Welcome to my portfolio!
 
 ## 📚 Table of Contents
-- [Projects](#data-engineering)
-- [Social Media Links](#Other)
+- [Projects](#projects)
+- [Social Media Links](#social-media-links)
 
 # Projects
 
