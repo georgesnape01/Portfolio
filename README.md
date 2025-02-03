@@ -3,16 +3,18 @@
 Welcome to my portfolio!
 
 # 📚 Table of Contents
-- [Projects](#projects)
+- [Projects from Sep 2024](#projects)
 - [Social Media Links](#social-media-links)
 
 # Projects
 
-| Link | Completion | Description | 
-|---|---|---|
-| [Titanic](https://github.com/georgesnape01/titanic) | Present | This notebook presents a solution to the Titanic dataset challenge. It outlines the steps taken to load and prepare the data, perform exploratory data analysis (EDA), engineer features and optimise machine learning (ML) models to predict passenger survival outcomes. |
-| [Narrative Prediction](https://github.com/georgesnape01/dissertation) | Dec 24 | This competition involved hierarchical multilabel classification of article text, predicting narratives first then subnarratives based on the narratives. |
-| [Therapy Outcome Prediction](https://github.com/georgesnape01/dissertation) | Sep 24 | This study explored predicting therapy outcomes using a combination of text and other clincal features, with a focus on cognitive behavioural therapy. |
+| Link | Date | Description | Notable Tools | 
+|---|---|---|---|
+| 🚗 [Titanic](https://github.com/georgesnape01/titanic) | Present | A binary classification problem with limited instances and features. Worked with various data formats including binary, continuous, text, and categorical variables. | Classical ML, Ensembling, Optuna |
+| 🐶 [Narrative Prediction](https://github.com/georgesnape01/dissertation) | Dec 24 | Hierarchical multilabel classification on a text dataset. The task involved predicting narratives first, followed by subnarratives with a limited number of instances. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
+| 🚗 [Therapy Outcome Prediction](https://github.com/georgesnape01/dissertation) | Sep 24 | Explored binary classification with consideration of multiclass scenarios. The dataset had many variables, including binary, continuous, categorical, and text data, with significant missing and unclean data. Limited in instances. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
+
+***
 
 ***
 
