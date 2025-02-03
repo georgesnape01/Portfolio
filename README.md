@@ -17,7 +17,7 @@ Welcome to my portfolio! Below is a summary of all my data science projects.
 
 | Link | Date | Description | Notable Tools | 
 |---|---|---|---|
-| [Therapy Outcomes](https://github.com/georgesnape01/therapy-outcomes) | Sep 24 | Explored binary classification with consideration of multiclass scenarios. The dataset had many variables, including binary, continuous, categorical, and text data, with significant missing and unclean data. Limited in instances. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
+| [Therapy Outcomes (Dissertation)](https://github.com/georgesnape01/therapy-outcomes) | Sep 24 | Explored binary classification with consideration of multiclass scenarios. The dataset had many variables, including binary, continuous, categorical, and text data, with significant missing and unclean data. Limited in instances. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
 | [Weather Forecasting](https://github.com/georgesnape01/weather-forecasting) | Jan 24 |  | Classical ML, Baggging, Boosting, RNNs |
 | [Car Accidents](https://github.com/georgesnape01/car-accidents) | Jan 24 |  | Classical ML, Baggging, Boosting |
 
