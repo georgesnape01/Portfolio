@@ -1,6 +1,6 @@
 # George's Portfolio
 
-Welcome to my portfolio! Below is a summary of all the data science projects I have done.
+Welcome to my portfolio! Below is a summary of all my data science projects.
 
 # 📚 Table of Contents
 - [Projects from Sep 2024](#projects)
