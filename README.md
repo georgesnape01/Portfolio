@@ -2,8 +2,9 @@
 
 Welcome to my portfolio! Below is a summary of all my data science projects.
 
-# 📚 Table of Contents
-- [Projects from Sep 2024](#projects)
+# 📚 Contents 📚
+- [Projects from Sep 2024](#post-msc-projects)
+- [Projects before Sep 2024](#msc-projects)
 - [Social Media Links](#social-media-links)
 
 # Post-MSc Projects
