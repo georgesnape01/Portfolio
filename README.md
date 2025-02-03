@@ -1,6 +1,6 @@
 # 🗺 George's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects. 
+Welcome to my portfolio!
 
 ## 📚 Table of Contents
 - [Projects](#data-engineering)
