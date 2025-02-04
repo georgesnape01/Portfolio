@@ -16,6 +16,8 @@ Welcome to my portfolio! Below is a summary of all my projects and studies so fa
 | [Emotion Detection](https://github.com/georgesnape01/emotion-detection) | December 2024 | ... | ... |
 | [Person Detection Webcam](https://github.com/georgesnape01/person-detection-webcam) | November 2024 | ... | ... |
 
+***
+
 # MSc Projects
 
 | Title | Date | Task | Notable Tools | 
