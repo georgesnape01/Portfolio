@@ -1,6 +1,6 @@
 # George's Portfolio
 
-Welcome to my portfolio! Below is a summary of all my data science projects.
+Welcome to my portfolio! Below is a summary of all my projects and studies so far.
 
 ## 📚 Contents 📚
 - [Post-MSc Projects](#post-msc-projects) - Projects focusing on problems after my MSc, Septmeber 2024.
