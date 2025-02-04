@@ -13,7 +13,7 @@ Welcome to my portfolio! Below is a summary of all my data science projects.
 |---|---|---|---|
 | [Titanic Survival](https://github.com/georgesnape01/titanic-survival) | Present | A binary classification problem with limited data points and features. Worked with various data formats including binary, continuous, text, and categorical variables. | Classical ML, Bagging, Boosting, Optuna |
 | [Article Narratives](https://github.com/georgesnape01/article-narratives) | January 2025 | Hierarchical multilabel classification on a text dataset. The task involved predicting narratives first, followed by subnarratives with a limited number of articles. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
-| [Emotion Detection](https://github.com/georgesnape01/article-narratives) | January 2025 |  |  |
+| [Emotion Detection](https://github.com/georgesnape01/article-narratives) | December 2024 |  |  |
 | [Person Detection Webcam](https://github.com/georgesnape01/person-detection-webcam) | November 2024 |  | YOLO |
 
 # MSc Projects
