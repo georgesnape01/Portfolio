@@ -2,7 +2,6 @@
 
 Welcome to my portfolio! Below is a summary of all my projects and studies so far.
 
-## 📚 Contents 📚
 - [Post-MSc Projects](#post-msc-projects) - Projects focusing on problems after my MSc, Septmeber 2024.
 - [MSc Projects](#msc-projects) - Projects compelted during my MSc course, spanning September 2023 to September 2024.
 - [Other Links](#other-links) - Further useful links.
