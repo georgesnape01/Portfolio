@@ -9,7 +9,7 @@ Welcome to my portfolio! Below is a summary of all my projects and studies so fa
 
 # Post-MSc Projects
 
-| Link | Date | Problem | Notable Tools | 
+| Link | Date | Task | Notable Tools | 
 |---|---|---|---|
 | [Titanic Survival](https://github.com/georgesnape01/titanic-survival) | Present | A binary classification problem with limited data points and features. Worked with various data formats including binary, continuous, text, and categorical variables. | Classical ML, Bagging, Boosting, Optuna |
 | [Article Narratives](https://github.com/georgesnape01/article-narratives) | January 2025 | Hierarchical multilabel classification on a text dataset. The task involved predicting narratives first, followed by subnarratives with a limited number of articles. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
@@ -18,7 +18,7 @@ Welcome to my portfolio! Below is a summary of all my projects and studies so fa
 
 # MSc Projects
 
-| Link | Date | Problem | Notable Tools | 
+| Link | Date | Task | Notable Tools | 
 |---|---|---|---|
 | [Therapy Outcomes (Dissertation)](https://github.com/georgesnape01/therapy-outcomes) | September 2024 | Explored binary classification with consideration of multiclass scenarios. The dataset had many variables, including binary, continuous, categorical, and text data, with significant missing and unclean data. Limited number of patients. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
 | [Weather Forecasting](https://github.com/georgesnape01/weather-forecasting) | February 2024 | ... | Classical ML, Baggging, Boosting, RNNs |
