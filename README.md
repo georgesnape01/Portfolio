@@ -23,7 +23,7 @@ Welcome to my portfolio! Below is a summary of all my data science projects.
 | [Therapy Outcomes (Dissertation)](https://github.com/georgesnape01/therapy-outcomes) | September 2024 | Explored binary classification with consideration of multiclass scenarios. The dataset had many variables, including binary, continuous, categorical, and text data, with significant missing and unclean data. Limited number of patients. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
 | [Weather Forecasting](https://github.com/georgesnape01/weather-forecasting) | February 2024 |  | Classical ML, Baggging, Boosting, RNNs |
 | [Car Accidents](https://github.com/georgesnape01/car-accidents) | February 2024 |  | Classical ML, Baggging, Boosting |
-| [Booking Manager System](https://github.com/georgesnape01/booking-manager-system) | October 2023 |  | YOLO |
+| [Booking Manager](https://github.com/georgesnape01/booking-manager) | October 2023 |  | YOLO |
 
 ***
 
