@@ -31,5 +31,5 @@ Welcome to my portfolio! Below is a summary of all my projects and studies so fa
 
 # Other Links
 
-- [LinkedIn](https://www.linkedin.com/in/george-a-snape/)
+- [LinkedIn](https://www.linkedin.com/in/george-a-snape/) - Follow me on LinkedIn
 - [Personal Website](https://georgesnape01.github.io./index.html)
