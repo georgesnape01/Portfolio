@@ -22,9 +22,9 @@ Welcome to my portfolio! Below is a summary of all my projects and studies so fa
 | Title | Date | Task | Notable Tools | 
 |---|---|---|---|
 | 🧑‍🦲 [Therapy Outcomes (Dissertation)](https://github.com/georgesnape01/therapy-outcomes) | September 2024 | Explored binary classification with consideration of multiclass scenarios. The dataset had many variables, including binary, continuous, categorical, and text data, with significant missing and unclean data. Limited number of patients. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
-| ⛅ [Weather Forecasting](https://github.com/georgesnape01/weather-forecasting) | February 2024 | Time series problem using around 500,000 records with 8 features to predict weather patterns such as humidity and temperature. | Classical ML, Baggging, Boosting, RNNs |
-| 🚗 [Car Accidents](https://github.com/georgesnape01/car-accidents) | February 2024 | Multiclass classification problem with 100,000 instances and 20 features aimed at predicting car accident severity. | Classical ML, Baggging, Boosting |
-| ☑️ [Booking Manager](https://github.com/georgesnape01/booking-manager) | October 2023 | A secure booking system aimed at handling booking creations, deletions, conflicts and availability whilst validating input. | Python |
+| ⛅ Weather Forecasting | February 2024 | Time series problem using around 500,000 records with 8 features to predict weather patterns such as humidity and temperature. | Classical ML, Baggging, Boosting, RNNs |
+| 🚗 Car Accidents | February 2024 | Multiclass classification problem with 100,000 instances and 20 features aimed at predicting car accident severity. | Classical ML, Baggging, Boosting |
+| ☑️ Booking Manager | October 2023 | A secure booking system aimed at handling booking creations, deletions, conflicts and availability whilst validating input. | Python |
 
 ***
 
