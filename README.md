@@ -6,7 +6,7 @@ Welcome to my portfolio! Below is a summary of all my projects and studies so fa
 - [MSc Projects](#msc-projects) - Projects compelted during my MSc course, spanning September 2023 to September 2024.
 - [Additional Links](#additional-links) - Further useful links.
 
-Some of my projects are not currently available but feel free to get in touch if you have any questions about them! You can either send me an email via my [website](https://georgesnape01.github.io./portfolio-website), or alternatively, connect with me on [LinkedIn](https://www.linkedin.com/in/george-a-snape/) and leave me a message.
+Some of my projects are not currently available but feel free to get in touch if you have any questions about them! You can either send me an email via [my website](https://georgesnape01.github.io./portfolio-website), or alternatively, connect with me on [LinkedIn](https://www.linkedin.com/in/george-a-snape/) and leave me a message.
 
 # Post-MSc Projects
 
