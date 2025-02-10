@@ -1,12 +1,12 @@
 # George's Portfolio
 
-Welcome to my portfolio! Below is a summary of all my projects and studies so far. 
+Welcome to my portfolio 👋! Below is a summary of all my projects and studies so far. 
 
 - [Post-MSc Projects](#post-msc-projects) - Projects focusing on problems after my MSc, Septmeber 2024.
 - [MSc Projects](#msc-projects) - Projects compelted during my MSc course, spanning September 2023 to September 2024.
 - [Additional Links](#additional-links) - Further useful links.
 
-Some of my projects are not currently available but feel free to get in touch if you have any questions about them! You can either send me an email via [my website](https://georgesnape01.github.io./portfolio-website), or alternatively, connect with me on [LinkedIn](https://www.linkedin.com/in/george-a-snape/) and leave me a message.
+Some of my projects are not currently available but feel free to get in touch if you have any questions about them! You can either send me an email via [my website](https://georgesnape01.github.io./portfolio-website), or alternatively, connect with me on [LinkedIn](https://www.linkedin.com/in/george-a-snape/) and leave me a message 😄.
 
 # Post-MSc Projects
 
@@ -30,7 +30,22 @@ Some of my projects are not currently available but feel free to get in touch if
 
 ***
 
-# Additional Links
+# Additional Links 🤝
 
 - [LinkedIn](https://www.linkedin.com/in/george-a-snape/)
 - [Personal Website](https://georgesnape01.github.io./portfolio-website)
+
+
+
+
+Hi and welcome!👋 I'm George Snape and this is my personal GitHub page, where I showcase my work in data science. Have a look around and explore my projects using my Portfolio Guide!
+
+About Me 🚀
+🔢 First-Class BSc in Mathematics from a Russell Group university.
+💻 Distinction in MSc Data Science also from a Russell Group university.
+🧠 My MSc dissertation focused on predicting CBT outcomes using machine learning techniques and I'm thrilled to share that it’s on the way to being published!
+🔤 Since university, I have also worked on predicting narratives in news articles, and this work is currently in the process of being published!
+Additional Links 🤝
+🔗 LinkedIn
+🔗 Personal Website
+Thanks for visting! 😄
