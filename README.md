@@ -32,5 +32,5 @@ Some of my projects are not currently available but feel free to get in touch if
 
 # Additional Links
 
-- [LinkedIn](https://www.linkedin.com/in/george-a-snape/) - Follow me on LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/george-a-snape/)
 - [Personal Website](https://georgesnape01.github.io./portfolio-website)
