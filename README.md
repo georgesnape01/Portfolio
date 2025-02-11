@@ -12,7 +12,7 @@ Some of my projects are not currently available but feel free to get in touch if
 
 | Title | Date | Task | Notable Tools | 
 |---|---|---|---|
-| 🚢 [Titanic Survival](https://github.com/georgesnape01/titanic-survival) | Present | A binary classification problem with limited data points and features. Worked with various data formats including binary, continuous, text, and categorical variables. | Classical ML, Bagging, Boosting, Optuna |
+| 🚢 [Titanic Survival](https://github.com/georgesnape01/titanic-survival) | Present | A binary classification problem with limited data points and features. Worked with various data formats including binary, continuous, text and categorical variables. | Classical ML, Bagging, Boosting, Optuna |
 | 📰 [Article Narratives](https://github.com/georgesnape01/article-narratives) | January 2025 | Hierarchical multilabel classification on a text dataset. The task involved predicting narratives first, followed by subnarratives with a limited number of articles. | Classical ML, Ensembling, NLP, Encoders, Decoders, Optuna |
 | 😀 [Emotion Detection](https://github.com/georgesnape01/emotion-detection) | December 2024 | Multilabel classification for emotion detection using 3000 social media comments. | Classical ML, Encoders, Translation Models |
 | 👁 Person Detection Webcam | November 2024 | Real-time object detection from webcam input to identify people and automate the process of sending email notifications when someone is detected. | YOLO, OpenCV, Email Automation |
